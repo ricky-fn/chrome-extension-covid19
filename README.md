@@ -1,6 +1,6 @@
 # COVID-19 Visualizer Chrome Extension
 
-An App that lists countries around the world based on the total cases of Covid 19.
+A Chrome extension that lists countries based on their total COVID-19 cases. Users can click on a country to visit a website for full details.
 
 ## Features
 
