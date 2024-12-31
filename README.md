@@ -1,6 +1,6 @@
-# Svelte Typescript Chrome Extension Boilerplate
+# COVID-19 Visualizer Chrome Extension
 
-Boilerplate for Chrome Extension Svelte Typescript project.
+An App that highlights countries around the world based on the total cases.
 
 ## Features
 
@@ -13,10 +13,6 @@ Boilerplate for Chrome Extension Svelte Typescript project.
 ## Demo
 
 ![Demo](/demo.gif)
-
-## Examples of integrations
-
--   [Tailwind CSS](https://tailwindcss.com/) – is in the [tailwindcss](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate/tree/tailwindcss) branch
 
 ## Development
 
