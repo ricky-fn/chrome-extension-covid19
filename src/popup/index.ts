@@ -1,6 +1,5 @@
 import { mount } from "svelte";
 import Options from "../components/Options.svelte";
-import { count } from "../storage";
 import "../tailwind.css";
 
 // Action popup
@@ -10,7 +9,7 @@ function render() {
     const target = document.getElementById("app");
 
     if (target) {
-        mount(Options, { target, props: { count } });
+        mount(Options, { target });
     }
 }
 
